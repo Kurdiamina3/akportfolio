@@ -1,0 +1,30 @@
+
+/* Add your profile image here */
+.Photo{
+    background-image: url('https://avatars.githubusercontent.com/u/60494706?v=4');
+}
+/* Projects Photo */
+.project1{
+    background-image: url('https://cdn.vox-cdn.com/thumbor/ngQ0Dft-omo2WhyiXmDJSYvgCBY=/0x0:1200x669/1200x800/filters:focal(504x238:696x430)/cdn.vox-cdn.com/uploads/chorus_image/image/64581600/1829267.0.jpg');
+    cursor: none;    
+}
+.project2{
+    background-image: url('https://thumbs.dreamstime.com/b/big-open-clapper-board-movie-reel-cinema-icon-set-movie-film-elements-flat-design-cinema-movie-time-flat-icons-f-95500226.jpg');
+    cursor: none;
+}
+.project3{
+    background-image: url('https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bm90ZXN8ZW58MHx8MHx8&w=1000&q=80');
+    cursor: none;
+}
+.project4{
+    background-image: url('https://toybook.com/wp-content/uploads/2013/05/540136_10200923579191139_1857708566_n.jpg');
+    cursor: none;
+}
+.project5{
+    background-image: url('https://play-lh.googleusercontent.com/i0Kzpkq3E2OCIUg86uPJ70l4y59gtwsxp-lRlWl7G-grGTRQ4PHB17nUyY6nbzJFdt3g');
+    cursor: none;
+}
+.project6{
+    background-image: url('https://www.workflowmax.com/hubfs/budget%20900x400v2.png');
+    cursor: none;
+}
