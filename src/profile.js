@@ -101,9 +101,9 @@ const projects = [
   {
   
     id: "project4",
-    name: "Movie Land",
-    skills: ["HTML, CSS, Javascript, Heroku, Node.js, Sequelize, Handlebar.js"],
-    url: "https://thebettermovieland.herokuapp.com/",
+    name: "Game Hunt",
+    skills: ["HTML, CSS, Javascript, Heroku, Node.js, React, Mongodb, Mongoose, Express, RAWG api"],
+    url: "https://game-hunt-a.herokuapp.com/",
   },
   {
    
@@ -133,7 +133,7 @@ const social = {
   facebook: "https://www.facebook.com/aminarawrz/",
 
   linkedin: "https://www.linkedin.com/in/amina-kurdi-497306124/",
-  resume: "https://novoresume.com/",
+  resume: "https://kurdiamina3.github.io/ResumeAK/",
 };
 
 export {
